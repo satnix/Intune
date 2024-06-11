@@ -1,6 +1,6 @@
 ﻿#############################################################################################
-## SCRIPT For Bulk Convertor 				 					                           ##
-## Description:  Bulk Convertor from PSADT to Intune Win32App        					   ##
+## SCRIPT For Bulk Migration 				 					                           ##
+## Description:  Bulk Migration from PSADT to Intune Win32App        					   ##
 ## Author: Satyam Krishna                                                                  ##
 ## Date: 06.10.2024                  		                                               ##
 #############################################################################################
